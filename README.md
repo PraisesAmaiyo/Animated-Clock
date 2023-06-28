@@ -1,4 +1,5 @@
 # Animated-Clock
+
 Vanilla JavaScript app that displays current time  with customizable colors
 
 Fully functional Animated Clock with color options for different clock components.
